@@ -1,4 +1,4 @@
-# README for Assigment 7
+# README for Encode&Decode
 
 ## How to compile
 Use Makefile, type make
